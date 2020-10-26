@@ -30,7 +30,7 @@ bedmapdir = "./rasters/"
 # Define the model scaling and output name
 
 mapname = "Test_02"
-# For an AB map, 500:1 lateral scale worked - some topographic features were recognizable.
+# For AB map, 500:1 lateral scale worked - some topographic features were recognizable.
 # 200:1 worked very well for recognition of topographic features and continuity of river valleys.
 # Vertical exaggeration of 5 was okay.
 vscale = 0.025   # Vertical scale factor
